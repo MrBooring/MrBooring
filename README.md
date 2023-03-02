@@ -1,4 +1,3 @@
-### Hi there 👋
 ![MasterHead](https://mobiosolutions.com/wp-content/uploads/2020/07/Group-3.png)
 <h1 align="center">Hi 👋, I'm Siddhant Vedpathak</h1>
 <h3 align="center">A Flutter developer with experience in developing mobile applications for both Android and iOS platforms.</h3>
