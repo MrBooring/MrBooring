@@ -1,6 +1,6 @@
 ![MasterHead](https://mobiosolutions.com/wp-content/uploads/2020/07/Group-3.png)
 <h1 align="center">Hi 👋, I'm Siddhant Vedpathak</h1>
-<h3 align="center">A Flutter developer with experience in developing mobile applications for both Android and iOS platforms.</h3>
+<h3 align="center">Hello! I'm Siddhant Vedpathak, a Flutter developer with a strong focus on creating high-quality mobile applications. I have experience building user-friendly and innovative apps that improve user experience. As a Flutter developer, I am passionate about learning new things and keeping up with the latest advancements in the industry. I am always excited to work on new projects and collaborate with other developers to create game-changing mobile apps. .</h3>
 <img_align="right" alt="Coding" width="400" src="https://media.tenor.com/-Fbyl7vqHiYAAAAj/goma-cat.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbooring&label=Profile%20views&color=0e75b6&style=flat" alt="mrbooring" /> </p>
 
