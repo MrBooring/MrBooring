@@ -3,7 +3,8 @@
 <h3 align="center">I am a Flutter developer with a strong focus on creating high-quality mobile applications. I have experience building user-friendly and innovative apps that improve user experience. I am always excited to work on new projects and collaborate with other developers to create game-changing mobile apps.</h3>
 <!-- <img_align="right" alt="Coding" width="400" src="https://media.tenor.com/-Fbyl7vqHiYAAAAj/goma-cat.gif">
  -->
-<br>
+ <br>
+
 - 🔭 I have worked on **Health Screening, Fantasy Sports and online shopping Applications**
 
 - 🌱 I’m currently pursuing **Bachelors's in Computer Applications.**
